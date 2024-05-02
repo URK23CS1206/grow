@@ -6,6 +6,7 @@ git config --global user.email "Umail github"
 git config --list
 
 Git exp 2
+git clone url
 git cd repository 
 git add .
 git commit -m "message"
